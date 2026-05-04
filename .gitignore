@@ -1,0 +1,7 @@
+pytorch/
+venv/
+env/
+__pycache__/
+*.pth
+*.pyc
+.DS_Store
